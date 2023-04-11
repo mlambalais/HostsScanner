@@ -1,2 +1,2 @@
 # scan_hosts
-bash script that scan your different LANs and insert data in mysqldb
+Bash script to scan your differrent subnet and export into a database

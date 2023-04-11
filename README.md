@@ -1,4 +1,4 @@
-# scan_hosts
+# HostsScanner
 Bash script to scan your different subnets and export them to a database
 
 
